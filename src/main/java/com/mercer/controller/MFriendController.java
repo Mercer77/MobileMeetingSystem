@@ -13,7 +13,7 @@ import java.util.Map;
 
 @Controller
 @RequestMapping("/friend")
-public class MFriendController {
+public class MFriendController {//
 
     @Autowired
     private FriendService friendService;
